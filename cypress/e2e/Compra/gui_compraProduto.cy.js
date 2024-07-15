@@ -8,7 +8,7 @@ describe('Compra de produto', function() {
       cy.get('.product_label').should('contain', 'Products') 
     });
 
-it.only ('Compra de produto com sucesso', function(){
+it ('Compra de produto com sucesso', function(){
     //Ordenando do menor para o maior
     cy.get('.product_sort_container').select('lohi').should('contain', 'Price (low to high)')
 
