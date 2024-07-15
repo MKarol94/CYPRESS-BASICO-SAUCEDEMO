@@ -1,0 +1,15 @@
+{
+  "name": "demo-automationtesting",
+  "version": "1.0.0",
+  "description": "Automação de teste do site Sauce Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maria Karoline",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
