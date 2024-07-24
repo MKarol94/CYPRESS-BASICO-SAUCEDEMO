@@ -27,7 +27,6 @@ it ('Compra de produto com sucesso', function(){
     cy.get('.fa-layers-counter').click()
     cy.compra_command() //chamando o command
      
-
     //Checkout
     cy.checkout_command()
 
