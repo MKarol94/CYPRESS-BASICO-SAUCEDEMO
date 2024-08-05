@@ -44,7 +44,7 @@ it('Checkout preenchendo somente o campo Zip/Postal Code', function() {
     cy.get('[data-test="error"]').should('be.visible')
 })
 
-it.only('Checkout preenchendo todos os campos e depois limpando os campos', function() {
+it('Checkout preenchendo todos os campos e depois limpando os campos', function() {
     cy.addProduto_command()
     cy.get('.fa-layers-counter').click()
     cy.get('.btn_action').click()
