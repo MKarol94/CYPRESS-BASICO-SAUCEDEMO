@@ -1,5 +1,22 @@
- SwagLabs 
+# SwagLabs
+
 👋 Seja bem-vindo(a)!
 
-Automação do site Open-Source https://www.saucedemo.com
-Colocando em prática a automação de testes em Cypress!
+Automação de site Open-Source 
+![Site SwagLabs](https://www.saucedemo.com)
+
+## 📌 Features
+
+✔️ Login e logout;
+✔️ Filtrando produtos;
+✔️ Adicionando produtos no carrinho;
+✔️ Removendo produtos do carrinho;
+✔️ Finalizando compra.
+
+## 🚀 Tecnologias/Frameworks
+
+✔️ Cypress;
+✔️ VSCode.
+
+
+
