@@ -12,11 +12,10 @@ Este projeto testa as funcionalidades de um e-commerce fictício.
 - ✅ Remove produtos no carrinho
 - ✅ Processo de compra e checkout
 
+
 ## 🚀 Tecnologias
 - 🧪 **Cypress** para automação de testes
 - 💻 **VSCode** como ambiente de desenvolvimento
-
-## 📂 Como rodar o projeto
 
 
 ## 🧑‍💻 Autor
@@ -25,9 +24,9 @@ Este projeto testa as funcionalidades de um e-commerce fictício.
 🔗 LinkedIn: [Seu LinkedIn](hhttps://www.linkedin.com/in/maria-karoline94/)
 
 
-
 ## ⚠️ Avisos
-Este projeto é voltado apenas para fins de automação e demonstração. Não há garantias sobre o estado do site (https://www.saucedemo.com/), uma vez que ele é open-source e pode ser alterado.
+Este projeto é voltado apenas para fins de automação e demonstração. 
+Não há garantias sobre o estado do site (https://www.saucedemo.com/), uma vez que ele é open-source e pode ser alterado.
 
 
 
